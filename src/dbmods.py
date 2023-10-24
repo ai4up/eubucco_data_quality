@@ -3,9 +3,7 @@ import geopandas as gpd
 import pandas as pd
 from sshtunnel import SSHTunnelForwarder
 from dotenv import load_dotenv
-import numpy as np
 import os
-import pyarrow as pa
 
 ## The host
 ssh_host = ('194.163.151.34', 22)

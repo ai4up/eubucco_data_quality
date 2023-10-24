@@ -21,17 +21,5 @@ matplotlib>=3.3.4
 mapclassify
 seaborn
 
-# testing
-pytest>=3.1.0
-pytest-cov
-codecov
-
-# spatial access methods
-rtree>=0.9
-
-# styling
-black
-pre-commit
-
 # PostGIS writing
 GeoAlchemy2
