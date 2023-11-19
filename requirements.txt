@@ -7,6 +7,11 @@ packaging
 geopandas>=0.13.0
 dask
 dask-geopandas
+python-dotenv
+pyarrow
+momepy
+ipywidgets
+shapely==2.0.1
 
 # geodatabase access
 psycopg2-binary>=2.8.0
@@ -20,6 +25,10 @@ geopy
 matplotlib>=3.3.4
 mapclassify
 seaborn
+plotly
+ipykernel>=6.26.0
+nbformat>=5.9.2
+contextily
 
 # PostGIS writing
 GeoAlchemy2
